@@ -8,7 +8,7 @@
 ## 📸 프로젝트 화면
 
 <p align="center">
-  <img src="h<img width="1901" height="959" alt="krpizza" src="https://github.com/user-attachments/assets/3f1adb84-c260-4284-b94b-be4d9cee7234" />
+  <img width="1901" height="959" alt="krpizza" src="https://github.com/user-attachments/assets/fe452de2-c87c-4c79-99e8-d7558018fa08" />
 </p>
 ---
 

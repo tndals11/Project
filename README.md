@@ -6,10 +6,10 @@
 ---
 
 ## 📸 프로젝트 화면
-
 <p align="center">
   <img width="1901" height="959" alt="krpizza" src="https://github.com/user-attachments/assets/fe452de2-c87c-4c79-99e8-d7558018fa08" />
 </p>
+
 ---
 
 ## 📖 주요 기능

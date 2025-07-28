@@ -54,4 +54,4 @@
 - **Backend**: Spring Boot, Java, Spring MVC
 - **Frontend**: HTML5, CSS3, JavaScript, Thymeleaf
 - **Database**: MySQL
-- **Tools & ETC**: Kakao Pay API, Git, GitHub, IntelliJ, Eclipse
+- **Tools & ETC**: Kakao Pay API, Git, GitHub, IntelliJ

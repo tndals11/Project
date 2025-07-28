@@ -10,14 +10,6 @@
   <img width="1200" height="600" alt="krpizza" src="https://github.com/user-attachments/assets/fe452de2-c87c-4c79-99e8-d7558018fa08" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/fUqAOP9.jpg" width="200" alt="이미지 1"/>
-  <img src="https://i.imgur.com/fUqAOP9.jpg" width="200" alt="이미지 2"/>
-  <img src="https://i.imgur.com/fUqAOP9.jpg" width="200" alt="이미지 3"/>
-  <img src="https://i.imgur.com/fUqAOP9.jpg" width="200" alt="이미지 4"/>
-</p>
----
-
 ## 📖 주요 기능
 
 ### ✅ 사용자 기능

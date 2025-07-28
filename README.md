@@ -4,6 +4,14 @@
 > Spring Boot 기반의 MVC 아키텍처로 구현되었으며, 다양한 사용자 기능과 관리자 기능을 제공합니다.
 
 ---
+## 🛠️ 사용 기술 스택
+| 구분         | 기술 목록                                                 |
+|--------------|------------------------------------------------------------|
+| 🔙 Backend   | Java, Spring Boot, Spring MVC                             |
+| 🎨 Frontend  | HTML5, CSS3, JavaScript, Thymeleaf                        |
+| 💾 Database  | MySQL                                                     |
+| 🔌 외부 API   | Kakao Pay API                                             |
+| 🧰 개발 도구  | Git, GitHub, IntelliJ IDEA                                |
 
 ## 📸 프로젝트 화면
 <p align="center">
@@ -47,11 +55,3 @@
 
 ---
 
-## 🛠️ 사용 기술 스택
-| 구분         | 기술 목록                                                 |
-|--------------|------------------------------------------------------------|
-| 🔙 Backend   | Java, Spring Boot, Spring MVC                             |
-| 🎨 Frontend  | HTML5, CSS3, JavaScript, Thymeleaf                        |
-| 💾 Database  | MySQL                                                     |
-| 🔌 외부 API   | Kakao Pay API                                             |
-| 🧰 개발 도구  | Git, GitHub, IntelliJ IDEA                                |

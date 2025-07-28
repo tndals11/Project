@@ -61,3 +61,5 @@
 | 김승민 | 프론트엔드(UI/UX), 백엔드 |
 | 김지원 | 백엔드, 장바구니 구현 |
 
+## 📂 프로젝트 PPT
+[KoreaPizza(FINAL).pptx](https://github.com/user-attachments/files/21462718/KoreaPizza.FINAL.pptx)

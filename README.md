@@ -7,9 +7,8 @@
 
 ## 📸 프로젝트 화면
 
-![Korea Pizza 메인 화면](https://i.imgur.com/fUqAOP9.jpg)
 <p align="center">
-  <img src="https://i.imgur.com/fUqAOP9.jpg" width="800" alt="Korea Pizza 메인 화면">
+  <img src="h<img width="1901" height="959" alt="krpizza" src="https://github.com/user-attachments/assets/3f1adb84-c260-4284-b94b-be4d9cee7234" />
 </p>
 ---
 

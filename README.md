@@ -7,7 +7,7 @@
 ## 🛠️ 사용 기술 스택
 | 구분         | 기술 목록                                                 |
 |--------------|------------------------------------------------------------|
-| 🔙 Backend   | Java, Spring Boot, Spring MVC, Thymeleaf                          |
+| 🔙 Backend   | Java, Spring Boot, Spring MVC, MyBatis, Thymeleaf                          |
 | 🎨 Frontend  | HTML5, CSS3, JavaScript                        |
 | 💾 Database  | MySQL                                                     |
 | 🔌 외부 API   | Kakao Pay API                                             |

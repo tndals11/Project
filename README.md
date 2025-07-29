@@ -62,4 +62,6 @@
 | 김지원 | 백엔드, 장바구니 구현 |
 
 ## 📂 프로젝트 PPT
-[KoreaPizza(FINAL).pptx](https://github.com/user-attachments/files/21462718/KoreaPizza.FINAL.pptx)
+1. `KoreaPizza.FINAL.pptx` - 발표 자료
+2. `korpizzaPrj(FINAL).zip` - 최종 프로젝트 소스 코드
+3. `README.md` - 프로젝트 설명 문서

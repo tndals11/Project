@@ -11,7 +11,7 @@
 | 🎨 Frontend  | HTML5, CSS3, JavaScript                        |
 | 💾 Database  | MySQL                                                     |
 | 🔌 외부 API   | Kakao Pay API                                             |
-| 🧰 개발 도구  | Git, GitHub, IntelliJ IDEA                                |
+| 🧰 개발 도구  | IntelliJ IDEA, Git, GitHub                               |
 
 ## 📸 프로젝트 화면
 <p align="center">

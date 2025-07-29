@@ -7,8 +7,8 @@
 ## 🛠️ 사용 기술 스택
 | 구분         | 기술 목록                                                 |
 |--------------|------------------------------------------------------------|
-| 🔙 Backend   | Java, Spring Boot, Spring MVC                             |
-| 🎨 Frontend  | HTML5, CSS3, JavaScript, Thymeleaf                        |
+| 🔙 Backend   | Java, Spring Boot, Spring MVC, Thymeleaf                          |
+| 🎨 Frontend  | HTML5, CSS3, JavaScript                        |
 | 💾 Database  | MySQL                                                     |
 | 🔌 외부 API   | Kakao Pay API                                             |
 | 🧰 개발 도구  | Git, GitHub, IntelliJ IDEA                                |
